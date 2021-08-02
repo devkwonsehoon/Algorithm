@@ -1,5 +1,7 @@
 # Algorithm
 
+> 하루 한 문제씩 잊지말고
+
 ```python
 print("Algorithm")
 ```
