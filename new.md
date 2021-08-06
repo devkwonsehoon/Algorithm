@@ -5,3 +5,5 @@ _알고리즘 공부하며 이게 뭐지 했던 것들 ..._
 ### [백준 #10951](https://www.acmicpc.net/problem/10951) - `EOF`, `예외처리`
 
 ### [백준 #18258](https://www.acmicpc.net/problem/18258) - `deque`
+
+### [백준 #1927](https://www.acmicpc.net/problem/1927) - `heapq`

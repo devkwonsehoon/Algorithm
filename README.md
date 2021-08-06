@@ -18,6 +18,7 @@ print("Algorithm")
 - ##### [예외처리, EOF](https://github.com/devkwonsehoon/Algorithm/wiki/EOF,-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC)
 - ##### [get()]()
 - ##### [deque](https://github.com/devkwonsehoon/Algorithm/wiki/deque)
+- ##### [heapq](https://github.com/devkwonsehoon/Algorithm/wiki/heapq)
 
 <br>
 
