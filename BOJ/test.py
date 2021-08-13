@@ -2,6 +2,6 @@
 # print(n)
 # print("type : ", type(n))
 
-s = "170 10 1000"
+s = [1,3,5,2,4]
 
-print(*s, sep="")
+print(s[int(len(s)/2)])
